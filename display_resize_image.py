@@ -1,5 +1,5 @@
 import cv2
-image = cv2.imread("himalayas.webp")
+image = cv2.imread("images.jpg")
 
 cv2.namedWindow("Loaded image", cv2.WINDOW_NORMAL) 
 cv2.resizeWindow("Loaded image", 800,500)
